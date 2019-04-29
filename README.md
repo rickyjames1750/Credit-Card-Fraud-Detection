@@ -1,0 +1,2 @@
+# Credit-Card-Fraud
+The problem presented is analyzing historical data of credit card transactions that were fraudulent and cards that weren’t fraudulent. The goal of this model is to predict future transactions as fraud. The model will be targeted to be optimized for precision rather than recall. Since it is important that this model identifies most of the fraud transactions with as much accuracy as possible.
