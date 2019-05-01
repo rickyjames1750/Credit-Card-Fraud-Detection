@@ -1,7 +1,9 @@
 # Credit-Card-Fraud
+
+## Mission
 The problem presented is analyzing historical data of credit card transactions that were fraudulent and cards that weren’t fraudulent. The goal of this model is to predict future transactions as fraud. The model will be targeted to be optimized for precision rather than recall. Since it is important that this model identifies most of the fraud transactions with as much accuracy as possible.
 
-# The Dataset
+## The Dataset
 The datasets contains transactions made by credit cards in September 2013 by european 
 cardholders. This dataset presents transactions that occurred in two days, where we 
 have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the 
@@ -17,3 +19,7 @@ learning. Feature 'Class' is the response variable and it takes value 1 in case 
 0 otherwise. 
  
 Dataset  Source: https://www.kaggle.com/mlg-ulb/creditcardfraud  
+
+### Algorithms: Local Outlier Factor, Isolation Forest
+
+## Project Instructions
