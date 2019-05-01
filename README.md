@@ -23,3 +23,8 @@ Dataset  Source: https://www.kaggle.com/mlg-ulb/creditcardfraud
 ### Algorithms: Local Outlier Factor, Isolation Forest
 
 ## Project Instructions
+1. Clone the Repository into a folder that will be used for this project
+2. Then if necessary install Anaconda Distribution in your programs files folder
+https://www.anaconda.com/distribution/
+3. Search for Jupyter Notebook from Mac or Windows Cortana programm search bar 
+4. Then navigate to the project folder that contains the cloned repository and launch Ipython Notebook file(ipynb) for example
