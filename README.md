@@ -20,7 +20,7 @@ learning. Feature 'Class' is the response variable and it takes value 1 in case 
  
 Dataset  Source: https://www.kaggle.com/mlg-ulb/creditcardfraud  
 
-### Algorithms: Local Outlier Factor, Isolation Forest
+### Algorithms: Local Outlier Factor, Isolation Forest, Logistic Regression
 
 ## Project Instructions
 1. Clone the Repository into a folder that will be used for this project
